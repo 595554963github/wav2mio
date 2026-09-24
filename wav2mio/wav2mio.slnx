@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="wav2mio.vcxproj" Id="b1f48dcd-1ac8-4b3f-bbbc-b4e0ac48fa90" />
+</Solution>
